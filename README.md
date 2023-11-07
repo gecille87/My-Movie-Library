@@ -15,7 +15,7 @@ Movie Library collections of Top Rated, Upcoming and Popular movies worldwide us
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/movie-library.git
+git clone https://github.com/gecille87/My-Movie-Library.git
 ```
 
 2. Navigate to the project directory:
