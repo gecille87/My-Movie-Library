@@ -50,10 +50,6 @@ You can also sort the movies by date, rating, ascending, and descending by click
 
 To view detailed information about a movie, click on the movie title.
 
-To add a movie to your watchlist, click on the "Add to Watchlist" button.
-
-To remove a movie from your watchlist, click on the "Remove from Watchlist" button.
-
 ### Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request. Please be sure to follow the coding conventions and guidelines outlined in the project's contribution guide.
