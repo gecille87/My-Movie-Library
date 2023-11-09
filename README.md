@@ -4,6 +4,8 @@
 
 Movie Library collections of Top Rated, Upcoming and Popular movies worldwide using API calls from themoviedb website. You can sort by date, Rating, Ascending and descending for easier navigation.
 
+![Screenshot 2023-11-09 123704](https://github.com/gecille87/My-Movie-Library/assets/48266598/a8783637-3182-4bc6-a473-cf6e2c82742b)
+
 ### Features
 
 - Browse and discover top rated, upcoming, and popular movies
