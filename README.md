@@ -4,8 +4,6 @@
 
 Movie Library collections of Top Rated, Upcoming and Popular movies worldwide using API calls from themoviedb website. You can sort by date, Rating, Ascending and descending for easier navigation.
 
-![Screenshot 2023-11-09 123704](https://github.com/gecille87/My-Movie-Library/assets/48266598/a8783637-3182-4bc6-a473-cf6e2c82742b)
-
 ### Features
 
 - Browse and discover top rated, upcoming, and popular movies
@@ -17,7 +15,7 @@ Movie Library collections of Top Rated, Upcoming and Popular movies worldwide us
 1. Clone the repository:
 
 ```
-git clone https://github.com/gecille87/My-Movie-Library.git
+git clone https://github.com/your-username/movie-library.git
 ```
 
 2. Navigate to the project directory:
@@ -51,6 +49,10 @@ To browse movies, select one of the categories from the navigation bar:
 You can also sort the movies by date, rating, ascending, and descending by clicking on the corresponding headers in the table.
 
 To view detailed information about a movie, click on the movie title.
+
+To add a movie to your watchlist, click on the "Add to Watchlist" button.
+
+To remove a movie from your watchlist, click on the "Remove from Watchlist" button.
 
 ### Contributing
 

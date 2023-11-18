@@ -14,7 +14,7 @@ const MovieList = ({ title, emoji, type }) => {
   // run logic on component render
   useEffect(() => {
     fetchMovies();
-  }, []);
+  }, [type]);
 
   useEffect(() => {
     if (sort.by !== "default") {
